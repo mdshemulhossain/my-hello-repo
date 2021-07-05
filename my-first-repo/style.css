@@ -1,0 +1,61 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+
+
+}
+section{
+    display: flex;
+}
+
+.banner-top{
+    width: 50%;
+    margin-left:30px;
+  
+}
+.banner-top{
+    text-align: justify;
+}
+
+.banner-top a{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgba(172, 33, 9, 0.637);
+    padding:10px 20px;
+    border-radius: 5px;
+
+}
+.banner-photo{
+    width: 50%;
+    
+}
+
+.banner-design{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-position-x:left;
+}
+.banner-photo img{
+   width:90%;
+   padding-top:10%;
+   margin-left:30px; 
+    
+}
+
+.banner-mid{
+    background-image: url(images/dream-bg.png );
+    background-repeat: no-repeat;
+    background-position:right;
+}
+
+.experiences-banner{
+    width: 50%;
+
+}
+.experiences-banner p{
+         border: 1px solid blue;
+         width: 40%;
+        
+}
